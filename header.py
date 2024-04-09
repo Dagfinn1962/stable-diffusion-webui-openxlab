@@ -1,7 +1,6 @@
         with gr.Group():
             gr.Markdown(f'''
-              🐣 This is only for 512X models, do not attempt to change model while genreating, it will crash
-               CONTACT ON https://github.com/revolverocelot1 or srushtiraj.patil20@vit.edu for extenstion update and bugs
-               huggingface links has problems nowadays,so model migration is in progress on this platfrom.
+              This app runs on AIBABE.ART on our free service within Stable Diffusion <br> 
+              We make Stable diffusion easy ! 
             ''')
 
